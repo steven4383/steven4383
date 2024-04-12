@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Digisailor,P8<br>👯 I’m looking to collaborate on Google,Aws<br>💬 Ask me about React,Aws,Flutter,Nodejs<br>📫 How to reach me stephenraj9994383@gmail.com<br>⚡ “N the world, those who break the rules are scum, but those who abandon their friends are worse than scum.”
+🔭 I’m currently working on Digisailor,P8<br>👯 I’m looking to collaborate on Google,Aws<br>💬 Ask me about React,Aws,Flutter,Nodejs<br>📫 How to reach me stevenraj4383@gmail.com<br>⚡ “N the world, those who break the rules are scum, but those who abandon their friends are worse than scum.”
 
 
 ## 🌐 Socials:
@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=steven4383&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
+## 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
