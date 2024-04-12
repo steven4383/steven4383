@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Digisailor,P8<br><br>👯 I’m looking to collaborate on Google,Aws<br><br>💬 Ask me about React,Aws,Flutter,Nodejs<br><br>📫 How to reach me stephenraj9994383@gmail.com<br><br>⚡ “n the world, those who break the rules are scum, but those who abandon their friends are worse than scum.”
+🔭 I’m currently working on Digisailor,P8<br><br>👯 I’m looking to collaborate on Google,Aws<br><br>💬 Ask me about React,Aws,Flutter,Nodejs<br><br>📫 How to reach me stephenraj9994383@gmail.com<br><br>⚡ “N the world, those who break the rules are scum, but those who abandon their friends are worse than scum.”
 
 
 ## 🌐 Socials:
@@ -16,4 +16,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=steven4383&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
