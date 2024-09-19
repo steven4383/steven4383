@@ -2,7 +2,7 @@
 🔭 I’m currently working on Digisailor,P8<br>👯 I’m looking to collaborate on Google,Aws<br>💬 Ask me about React,Aws,Flutter,Nodejs<br>📫 How to reach me stevenraj4383@gmail.com<br>⚡ “N the world, those who break the rules are scum, but those who abandon their friends are worse than scum.”
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/stephen-raj-5358281a0) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Stephenhappier) 
 
 # 💻 Tech Stack:
@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=steven4383&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🦇 Dev Meme
+# 🦇 Dev Meme
 <img src='https://www.picturepunches.com/images/memes/293176.jpg' style="height: 300px;"/>
 
 
